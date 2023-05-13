@@ -3,7 +3,7 @@
 
 
 <h1 <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);HelloWorld!&center=true&size=27"> </a> </h1>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=1746705990N&theme=xcode" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=1746705990&theme=xcode" /> </div>
 
 
 <!--
