@@ -1,9 +1,7 @@
 ### Hi there 👋
 ![](https://github-readme-stats.vercel.app/api?username=1746705990)
 
-
-<h1 <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);HelloWorld!&center=true&size=27"> </a> </h1>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=1746705990&theme=xcode" /> </div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=1746705990)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
