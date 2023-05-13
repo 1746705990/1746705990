@@ -2,9 +2,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=1746705990)
 
 
-    <h1>Hello World!</h1>
-    <p>Welcome to my GitHub profile!</p>
-
 
 
 
