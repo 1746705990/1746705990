@@ -1,5 +1,6 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=1746705990)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1746705990&show_icons=true&theme=radical)
 
 
 
