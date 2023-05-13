@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://github-readme-stats.vercel.app/api?username=1746705990)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=1746705990)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=1746705990)]
 
 
 <!--
