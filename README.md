@@ -1,7 +1,15 @@
 ### Hi there 👋
 ![](https://github-readme-stats.vercel.app/api?username=1746705990)
 
-![snake](./assets/github-contribution-grid-snake.svg)
+body {
+  background-color: black;
+  color: lime;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+  text-shadow: 0 0 5px lime;
+}
 
 
 <!--
