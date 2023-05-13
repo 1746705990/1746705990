@@ -1,34 +1,10 @@
 ### Hi there 👋
 ![](https://github-readme-stats.vercel.app/api?username=1746705990)
 
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>My GitHub Profile</title>
-    <style>
-        body {
-            background-color: black;
-            color: white;
-            font-family: monospace;
-        }
-        h1 {
-            font-size: 5em;
-            text-align: center;
-            margin-top: 50px;
-        }
-        p {
-            font-size: 2em;
-            text-align: center;
-            margin-top: 50px;
-        }
-    </style>
-</head>
-<body>
+
     <h1>Hello World!</h1>
     <p>Welcome to my GitHub profile!</p>
-</body>
-</html>
+
 
 
 
