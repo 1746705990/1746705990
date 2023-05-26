@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+https://www.daichenyang.tk
+https://news.daichenyang.me
+https://google.daichenyang.me
+https://chatgpt.daichenyang.me
+https://ray.daichenyang.me
