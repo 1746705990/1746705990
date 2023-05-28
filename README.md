@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 https://www.daichenyang.tk 主页  
 https://news.daichenyang.me  每日新闻页  
 https://google.daichenyang.me  伪google页  
-https://chatgpt.daichenyang.me  
+https://chatgpt.daichenyang.me  SpeechGPT  
 https://bing.daichenyang.me  伪NewBing页  
