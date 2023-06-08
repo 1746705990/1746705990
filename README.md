@@ -26,3 +26,4 @@ https://news.daichenyang.me  每日新闻页
 https://google.daichenyang.me  伪google页  
 https://chatgpt.daichenyang.me  SpeechGPT  
 https://bing.daichenyang.me  伪NewBing页  
+https://win11.daichenyang.me 伪Win11页
