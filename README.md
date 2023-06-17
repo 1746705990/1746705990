@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [每日新闻页](https://news.daichenyang.me "本页面复刻于https://github.com/zkeq/news")
 [伪Google页](https://google.daichenyang.me "本页面复刻于https://github.com/gaowanlu/google")
 [伪NewBing页](https://bing.daichenyang.me "本页面复刻于https://github.com/adams549659584/go-proxy-bingai")
-[伪Windows11页](https://win11.daichenyang.me "本页面复刻于https://github.com/inwinter04/win11React_CN")
+[伪Windows11页](https://win11.daichenyang.me "本页面复刻于https://github.com/inwinter04/win11React_CN")<br>
 [Github文件下载加速页](http://github.dcy12138.eu.org/ "本页面复刻于http://github.dcy12138.eu.org/")
 [SpeechGPT页](https://chatgpt.daichenyang.me "本页面复刻于https://github.com/hahahumble/speechgpt")
 [Transcoder页](https://transcoder.daichenyang.me "本页面复刻于https://vercel.com/templates/next.js/nextjs-ai-chatbot")
