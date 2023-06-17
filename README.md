@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 [伪Windows11页](https://win11.daichenyang.me "本页面复刻于https://github.com/inwinter04/win11React_CN")
 [SpeechGPT页](https://chatgpt.daichenyang.me "本页面复刻于https://github.com/hahahumble/speechgpt")
 [Transcoder页](https://transcoder.daichenyang.me "本页面复刻于https://vercel.com/templates/next.js/nextjs-ai-chatbot")
+[exatorrent磁力下载播放器](http://47.113.150.174:5000/signin "本项目复刻于https://github.com/varbhat/exatorrent，默认账密为：adminuser,adminpassword")
