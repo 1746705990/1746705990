@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://www.daichenyang.tk 主页  
-https://news.daichenyang.me  每日新闻页  
-https://google.daichenyang.me  伪google页  
-https://chatgpt.daichenyang.me  SpeechGPT  
-https://bing.daichenyang.me  伪NewBing页  
-https://win11.daichenyang.me 伪Win11页
+
+[我的主页](https://www.daichenyang.tk "我很喜欢一个叫章若楠的女生")
+[每日新闻页](https://news.daichenyang.me "本页面复刻于https://github.com/zkeq/news")
+[伪Google页](https://google.daichenyang.me "本页面复刻于https://github.com/gaowanlu/google")
+[伪NewBing页](https://bing.daichenyang.me "本页面复刻于https://github.com/adams549659584/go-proxy-bingai")
+[伪Windows11页](https://win11.daichenyang.me "本页面复刻于https://github.com/inwinter04/win11React_CN")
+[SpeechGPT页](https://chatgpt.daichenyang.me "本页面复刻于https://github.com/hahahumble/speechgpt")
+[Transcoder页](https://transcoder.daichenyang.me "本页面复刻于https://vercel.com/templates/next.js/nextjs-ai-chatbot")
